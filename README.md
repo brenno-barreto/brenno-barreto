@@ -1,7 +1,5 @@
 ### E aee! Eu sou o Brenno Barreto! 👋
 
-- 🌱 Estou estudando Pyhton
-
 <a href="https://github.com/brenno-barreto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenno-barreto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenno-barreto&layout=compact&langs_count=7&theme=dark"/>
